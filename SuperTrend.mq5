@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                                   SuperTrend.mq5 |
 //|                                                     Irfan Pathan |
-//|                      https://github.com/irfanp056/SuperTrend_MQL5 |
+//|                     https://github.com/irfanp056/SuperTrend_MQL5 |
 //+------------------------------------------------------------------+
 #property version   "1.00"
 #property indicator_chart_window
